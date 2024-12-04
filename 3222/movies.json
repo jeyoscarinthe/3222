@@ -1,0 +1,92 @@
+{
+  "Inception": {
+    "year": 2010,
+    "genre": "Sci-Fi",
+    "actors": [
+      {
+        "name": "Leonardo DiCaprio",
+        "role": "Dom Cobb"
+      },
+      {
+        "name": "Joseph Gordon-Levitt",
+        "role": "Arthur"
+      },
+      {
+        "name": "Elliot Page",
+        "role": "Ariadne"
+      }
+    ]
+  },
+  "The Matrix": {
+    "year": 1999,
+    "genre": "Sci-Fi",
+    "actors": [
+      {
+        "name": "Keanu Reeves",
+        "role": "Neo"
+      },
+      {
+        "name": "Carrie-Anne Moss",
+        "role": "Trinity"
+      },
+      {
+        "name": "Laurence Fishburne",
+        "role": "Morpheus"
+      }
+    ]
+  },
+  "The Dark Knight": {
+    "year": 2008,
+    "genre": "Action",
+    "actors": [
+      {
+        "name": "Christian Bale",
+        "role": "Bruce Wayne / Batman"
+      },
+      {
+        "name": "Heath Ledger",
+        "role": "The Joker"
+      },
+      {
+        "name": "Michael Caine",
+        "role": "Alfred"
+      }
+    ]
+  },
+  "Pulp Fiction": {
+    "year": 1994,
+    "genre": "Crime",
+    "actors": [
+      {
+        "name": "John Travolta",
+        "role": "Vincent Vega"
+      },
+      {
+        "name": "Uma Thurman",
+        "role": "Mia Wallace"
+      },
+      {
+        "name": "Samuel L. Jackson",
+        "role": "Jules Winnfield"
+      }
+    ]
+  },
+  "The Godfather": {
+    "year": 1972,
+    "genre": "Crime/Drama",
+    "actors": [
+      {
+        "name": "Marlon Brando",
+        "role": "Vito Corleone"
+      },
+      {
+        "name": "Al Pacino",
+        "role": "Michael Corleone"
+      },
+      {
+        "name": "James Caan",
+        "role": "Sonny Corleone"
+      }
+    ]
+  }
+}
